@@ -17,3 +17,9 @@ img {
     border: solid;
     border-radius: 10%;
 }
+
+p {
+    font-size: 25px;
+    background-color: lightblue;
+    border: solid;
+}
