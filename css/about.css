@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/1a/08/e9/1a08e95483a366a991d853699472ee3e.jpg");
+}
+
+h1 {
+    color: purple;
+    font-size: 50px;
+
+}
+
+h2 {
+    font-style: italic;
+}
+
+img {
+    width: 480px;
+    border: solid;
+    border-radius: 10%;
+}
