@@ -18,7 +18,20 @@ h2 {
     font-style: italic;
 }
 
-div.post {
+div.postdark {
+    color: lightpink;
+    border: solid;
+    border-radius: 10%;
+    background-color: darkblue;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    display: none;
+
+}
+
+div.postlight {
     border: solid;
     border-radius: 10%;
     background-color: lightblue;
